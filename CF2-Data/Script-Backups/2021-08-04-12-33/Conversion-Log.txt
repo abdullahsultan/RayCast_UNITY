@@ -1,0 +1,23 @@
+Converting script [1 / 3]	[/Scripts/CharacterMovement.cs]
+	Fragments : 2
+		[ 0] : Line:   18	InputMethod   GetAxis             	("Vertical")
+		[ 1] : Line:   19	InputMethod   GetAxis             	("Horizontal")
+
+Converting script [2 / 3]	[/Scripts/Gun.cs]
+	Fragments : 1
+		[ 0] : Line:   19	InputMethod   GetButtonDown       	("Fire1")
+
+Converting script [3 / 3]	[/Scripts/MouseLook.cs]
+	Fragments : 3
+		[ 0] : Line:   14	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   20	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   21	InputMethod   GetAxis             	("Mouse Y")
+
+
+3 scripts modified!
+Overwriting actual scripts...
+	[0 / 3] from  [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/CF2-Data/Script-Backups/2021-08-04-12-33/Assets-After//Scripts/CharacterMovement.cs] to [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/Assets//Scripts/CharacterMovement.cs]
+	[1 / 3] from  [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/CF2-Data/Script-Backups/2021-08-04-12-33/Assets-After//Scripts/Gun.cs] to [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/Assets//Scripts/Gun.cs]
+	[2 / 3] from  [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/CF2-Data/Script-Backups/2021-08-04-12-33/Assets-After//Scripts/MouseLook.cs] to [/Users/gss-imac-004/Desktop/Intern/RayCastTest/RayCast/Assets//Scripts/MouseLook.cs]
+
+Overwriting COMPLETED!
